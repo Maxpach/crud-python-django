@@ -8,7 +8,7 @@ Repositório com o código produzido durante o curso "Django - ORM - Parte 1".
 - PyCharm Community Edition
 - Django 2.X
 - MySQL
-- AdminLTE documnetation - link : https://django-adminlte2.readthedocs.io/en/latest/quickstart.html
+- AdminLTE documentation - link : https://django-adminlte2.readthedocs.io/en/latest/quickstart.html
 
 
 
